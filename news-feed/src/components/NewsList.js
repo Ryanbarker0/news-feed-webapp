@@ -1,6 +1,5 @@
 import React from 'react'
 import NewsCard from './NewsCard'
-import NewsItem from './NewsItem'
 
 const NewsList = props => {
     const { articles } = props
